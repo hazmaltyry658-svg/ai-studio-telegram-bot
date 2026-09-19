@@ -1,0 +1,1 @@
+This project is provided as a starter implementation. Review the terms of every AI provider you connect before commercial use.
